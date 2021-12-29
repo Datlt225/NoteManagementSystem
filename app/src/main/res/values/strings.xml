@@ -1,0 +1,111 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Note Management System V2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="name_category">Name category</string>
+    <string name="created_date">Created date</string>
+    <string name="category_form">Category form</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="button_update">Update</string>
+    <string name="edit">Edit</string>
+    <string name="edit_category_form">Edit category form</string>
+    <string name="update">Update</string>
+
+    <!-- Note fragment-->
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="app_editprofile">Edit profile</string>
+    <string name="app_etfirstname">Enter you first name</string>
+    <string name="app_etlastname">Enter you last name</string>
+    <string name="app_etemail">Enter you email</string>
+    <string name="app_btnChange">Change</string>
+    <string name="app_btnHome">Home</string>
+
+    <string name="app_changepassword">Change your password</string>
+    <string name="app_etcurrent">Enter current password </string>
+    <string name="app_etnewpassword">Enter new password</string>
+    <string name="app_etpasswordagain">Enter password again</string>
+
+    <string name="register_form_heading_text">Sign up form</string>
+    <string name="btn_exit_text">Exit</string>
+    <string name="btn_login_text">Sign In</string>
+    <string name="btn_register_text">Sign Up</string>
+    <string name="chk_remember_me_text">Remember me</string>
+    <string name="et_email_hint">Enter your email</string>
+    <string name="et_email_invalid">Invalid email!</string>
+    <string name="et_email_exists">Email address is already exists!</string>
+    <string name="et_pwd_hint">Enter your password</string>
+    <string name="et_pwd_invalid">Invalid password</string>
+    <string name="et_pwd_confirm_hint">Confirm password</string>
+    <string name="et_pwd_confirm_invalid">Invalid password confirm</string>
+    <string name="open_priority_dialog">Open Priority Dialog</string>
+    <string name="open_status_dialog">Open Status Dialog</string>
+
+    <string name="et_fName_label">First Name</string>
+    <string name="et_lName_label">Last Name</string>
+    <string name="et_email_label">Email</string>
+    <string name="et_pwd_label">Password</string>
+    <string name="et_pwd_confirm_label">Password Confirm</string>
+    <string name="et_fName_empty">Please enter your first name</string>
+    <string name="et_lName_empty">Please enter your last name</string>
+
+    <string name="close">Close</string>
+
+    <string name="priority_form">Priority Form</string>
+    <string name="note_form">Update Note Form</string>
+    <string name="status_form">Status Form</string>
+
+    <string name="priority_name">Name</string>
+    <string name="priority_updated_date">Latest update</string>
+
+    <string name="status_updated_date">Latest update</string>
+    <string name="status_name">Name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="user_name">Username</string>
+    <string name="user_email">username@gmail.com</string>
+    <string name="edt_hint_enter_note_name">Enter note name</string>
+    <string name="hint_auto_complete_category">Select category</string>
+    <string name="hint_auto_complete_priority">Select priority</string>
+    <string name="hint_auto_complete_status">Select status</string>
+    <string name="txt_select_plan_date">Select plan date</string>
+    <string name="btn_three_dots">…</string>
+    <string name="btn_add_new_note">Add</string>
+    <string name="btn_close_new_note">Close</string>
+    <string name="description_fab">description</string>
+    <string name="login_failed">User not found!</string>
+    <string name="login_pwd_incorrect">Incorrect password!</string>
+    <string name="logged_in">Logged in</string>
+    <string name="user_created">User created successfully!</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="txt_enter_email">Enter your email</string>
+    <string name="txt_update_successful">Update user successfully</string>
+    <string name="err_wrong_email">Please re-enter your email!</string>
+    <string name="email">Email</string>
+    <string name="input_name">Input Name</string>
+    <string name="enter_category_name">Enter Category\'s Name</string>
+    <string name="err_empty_current_pass">Current password can not be empty!</string>
+    <string name="err_empty_new_pass">New password can not be empty!</string>
+    <string name="err_empty_repass">This field can not be empty!</string>
+    <string name="err_wrong_pass">Incorrect current password!</string>
+    <string name="err_same_pass">Unchanged password!</string>
+    <string name="err_wrong_confirm_pass">Please confirm your new password!</string>
+    <string name="txt_success_change_pass">Change password successfully</string>
+    <string name="err_repeat_name">Repeated name!</string>
+    <string name="menu_logout">Logout</string>
+    <string name="txt_confirm_logout">Do you want to logout?</string>
+    <string name="cate_name">Name:</string>
+    <string name="cate_lastest_update">Lastest update:</string>
+    <string name="category">Category</string>
+    <string name="priority">Priority</string>
+    <string name="status">Status</string>
+    <string name="plan_date">Plan Date</string>
+</resources>
